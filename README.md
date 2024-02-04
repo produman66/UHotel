@@ -14,7 +14,7 @@ Pet-проект на Kotlin под Android. Приложение сделано
 - MVVM
 # Экран «Отель»
 Реализован ImageSlider путем скачивания репозитория с гита и, изменив исходный код, получил необходимую карусель точь-в-точь как на макете из Figma
-![image](https://github.com/produman66/UHotel/assets/115027939/5c7118d2-64c8-4542-a3f5-f2e0960d8e62)
+![Uploading image.png…]()
 
 ![image](https://github.com/produman66/UHotel/assets/115027939/13638c2a-7538-4be2-ad63-db69818758ee)
 
