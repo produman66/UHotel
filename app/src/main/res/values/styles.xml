@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+<!--        <item name="colorPrimary">@color/color_text_adress</item>-->
+<!--        &lt;!&ndash; Другие атрибуты темы... &ndash;&gt;-->
+<!--    </style>-->
+    <style name="MyHintTextAppearance" parent="TextAppearance.Design.Hint">
+        <item name="android:textSize">12sp</item>
+    </style>
+</resources>
