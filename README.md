@@ -14,33 +14,32 @@ Pet-проект на Kotlin под Android. Приложение сделано
 - MVVM
 # Экран «Отель»
 Реализован ImageSlider путем скачивания репозитория с гита и, изменив исходный код, получил необходимую карусель точь-в-точь как на макете из Figma
-![photo_2024-02-05_00-45-49](https://github.com/produman66/UHotel/assets/115027939/3b76e2fd-7af1-4a80-bbf8-7601148cf97d)
 
-
-![image](https://github.com/produman66/UHotel/assets/115027939/13638c2a-7538-4be2-ad63-db69818758ee)
 
 # Экран «Отель»
 Этот экран открывается при нажатии на кнопку «к выбору номера» из экрана «Отель». Данные для этого экрана находятся по API из ТЗ с помощью Retrofit2.
 
-![image](https://github.com/produman66/UHotel/assets/115027939/caf6a212-2ba6-4731-a2d4-2012c3e81130)
-
-![image](https://github.com/produman66/UHotel/assets/115027939/35b88ad2-90f7-469f-9a36-d19321f80127)
 
 # Экран «Бронирование»
 
-![image](https://github.com/produman66/UHotel/assets/115027939/d22318e3-ba67-400f-9eca-e50379239e86)
-![image](https://github.com/produman66/UHotel/assets/115027939/a6faa938-b152-4600-a5b2-3cfa1fdedbb9)
-![image](https://github.com/produman66/UHotel/assets/115027939/26cfa647-8dfa-4b23-8d34-eb3361c746fb)
-![image](https://github.com/produman66/UHotel/assets/115027939/7681db38-ea8d-4064-80e1-ad86a1ec03b3)
-![image](https://github.com/produman66/UHotel/assets/115027939/055e00d8-12b1-4d2b-a02f-b744764379c4)
 
 # Экран «Успешно!»
-![image](https://github.com/produman66/UHotel/assets/115027939/9bcef758-f1dc-470a-963e-ffc1b848996a)
 
 
 
 
 
+
+![photo_10_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/8e23a960-3912-4990-ab9a-ebb7b2103006)
+![photo_9_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/365e75fb-53bd-4068-aca2-ea55988b7482)
+![photo_8_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/0e893091-2b51-4bc4-a921-c3b7550beca6)
+![photo_7_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/a894645e-5bf9-40b0-be02-9880ae0407c6)
+![photo_6_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/a22c9e34-e901-4897-a3d3-4f14133dd33c)
+![photo_5_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/8ee9575f-b9a6-430e-abdb-b254e6a19c9f)
+![photo_4_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/396b96d5-30ae-484a-a042-f8197804dc90)
+![photo_3_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/1d39a92e-c62b-4ede-90e3-3a97d18f766d)
+![photo_2_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/0c93af4b-b089-488f-9b88-93666093d5d0)
+![photo_1_2024-02-05_15-02-00](https://github.com/produman66/UHotel/assets/115027939/8f735351-2a5a-412a-9ba0-d95fa77ccb24)
 
 
 
