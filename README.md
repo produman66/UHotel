@@ -21,6 +21,7 @@ Pet-проект на Kotlin под Android. Приложение сделано
 
 
 # Экран «Бронирование»
+![image](https://github.com/produman66/UHotel/assets/115027939/cbfaa5aa-d89b-41ef-bced-3a4cb343d4ed)
 
 
 # Экран «Успешно!»
