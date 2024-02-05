@@ -18,16 +18,15 @@ Pet-проект на Kotlin под Android. Приложение сделано
 
 # Экран «Отель»
 Этот экран открывается при нажатии на кнопку «к выбору номера» из экрана «Отель». Данные для этого экрана находятся по API из ТЗ с помощью Retrofit2.
-![photo_10_2024-02-05_15-02-00 1](https://github.com/produman66/UHotel/assets/115027939/a3937d1b-3940-4929-b8ff-fd8dde72b36b)
+
+![photo_10_2024-02-05_15-02-00 2](https://github.com/produman66/UHotel/assets/115027939/1da4dbd2-2eb5-4045-85cc-6b07c241d8e1)
 
 
 # Экран «Бронирование»
-![image](https://github.com/produman66/UHotel/assets/115027939/cbfaa5aa-d89b-41ef-bced-3a4cb343d4ed)
+
 
 
 # Экран «Успешно!»
-![image](https://github.com/produman66/UHotel/assets/115027939/5a5a013b-aa4f-4a16-990f-299db9a7af60)
-
 
 Ссылка на гугл диск с тз:
 https://docs.google.com/document/d/10qXrLTVopNtoLd960H9x0ui_ttkjSCayxXq9iM4w64M/edit?usp=sharing
